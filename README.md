@@ -1,2 +1,2 @@
 # Digital Image Processing Course
- Digital Image Processing Course Solution Files
+ AmirKabir University of Technology's Digital Image Processing Course Solution Files 2022-2023
